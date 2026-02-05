@@ -1,2 +1,3 @@
 # BAiSEDagent
-BAiSED Agent - Skills, prompts, and configurations for Clawdbot
+
+Skill library for BAiSED Clawdbot.
